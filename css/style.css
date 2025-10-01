@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+background-color: #3F9A4B;
+}
+
+header{ 
+    background-color: #4B9EBF;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav ul li a{
+    text-decoration:none ; 
+    color: white;
+    font-size: 20px;
+    padding: 0 15px;
+
+}
+
+.forside-img{
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+
+
