@@ -44,4 +44,24 @@ nav ul li a{
 }
 
 
+/* ---------------  INDHOLD --------------------------------------   */
 
+
+
+
+    /*--Jyllandbillede--*/
+
+.venstre-imgv{
+    margin: 3em 1em;
+
+
+}
+
+.venstre-imgv{
+    aspect-ratio: 1/1;
+    width: 65%;
+    object-fit: cover;
+    border-radius: 15px;
+    padding: 0.5%;
+
+}
