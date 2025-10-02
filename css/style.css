@@ -1,9 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
 *{
-    padding: 0;
+    padding: 0 ;
     margin: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "lacquer", system-ui;
 }
+
+
+
 
 body{
 background-color: #3F9A4B;
@@ -47,13 +53,10 @@ nav ul li a{
 /* ---------------  INDHOLD --------------------------------------   */
 
 
-
-
     /*--Jyllandbillede--*/
 
 .venstre-imgv{
     margin: 3em 1em;
-
 
 }
 
