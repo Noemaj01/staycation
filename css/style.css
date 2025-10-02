@@ -54,15 +54,15 @@ nav ul li a{
 
 h1{
     margin: 1em 1em;
-    font-size: 1.7em;
-    text-align:
+    font-size: 2em;
+    text-align: center;
 
 }
 
     /*--Jyllandbillede--*/
 
 .venstre-imgv{
-    margin: 3em 1em;
+    margin: 0em 1em;
 
 }
 
@@ -74,3 +74,39 @@ h1{
     padding: 0.5%;
 
 }
+
+/* -- Fynbillede      */
+
+.højre-imgh{
+    margin: 0 14em;
+    aspect-ratio: 1/1;
+    width: 65%;
+    object-fit: cover;
+    border-radius: 15px;
+    padding: 0.5%;
+
+
+}
+
+
+
+/*-- Sjællandsbillede --  */
+
+.venstre-imgv2{
+    margin: 10em 1em;
+
+}
+
+
+.venstre-imgv2{
+    aspect-ratio: 1/1;
+    width:65%;
+    object-fit: cover;
+    border-radius: 15px;
+    padding: 0.5%;
+
+}
+
+
+
+
